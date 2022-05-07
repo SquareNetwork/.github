@@ -2,6 +2,10 @@
 
 We're a Minecraft server. It's still a work in progress, come back soon!
 
+## Links
+
+Discord: https://discord.gg/cE9uYGwBkc
+
 <!--
 
 **Here are some ideas to get you started:**
